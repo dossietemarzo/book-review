@@ -1,0 +1,42 @@
+h2{
+    font-family: "Playfair Display", serif;
+    font-size: 50px;
+    font-weight: 400;
+    font-style: italic;
+    color: #382038;
+    text-shadow: 2px 2px #a46ca4;
+    font-size: 72px;
+  }
+
+  body {
+    background-color: rgb(225, 205, 232);
+  }
+
+  .decimg{
+    border-style: groove;
+    border-color: #382038;
+    border-width: medium;
+  }
+
+  
+ .navcolor{
+  background-color: rgb(250, 246, 251);
+ }
+  
+ .p{
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.textfont{
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+  
